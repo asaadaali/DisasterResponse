@@ -14,7 +14,7 @@ The Project is divided in the following Sections:
 ### Installation: 
 Clone the GitHub repository and use Anaconda distribution of Python 3.6.7.
 
-    $ git clone 
+    $ git clone https://github.com/asaadaali/DisasterResponse.git
 
 In addition This will require pip installation of the following:
 
@@ -37,7 +37,7 @@ The data in this project comes from Figure Eight - Multilingual Disaster Respons
 
 The data has been encoded with 36 different categories related to disaster response and has been stripped of messages with sensitive information in their entirety.
 
-Data includes 2 csv files:
+Data includes the following csv files:
 
 1. disaster_messages.csv: Messages data.
 2. disaster_categories.csv: Disaster categories of messages.
