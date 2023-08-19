@@ -14,7 +14,7 @@ The Project is divided in the following Sections:
 ### Installation: 
 Clone the GitHub repository and use Anaconda distribution of Python 3.6.7.
 
-    $ git clone https://github.com/Swatichanchal/Disaster-Response-Pipeline.git
+    $ git clone 
 
 In addition This will require pip installation of the following:
 
