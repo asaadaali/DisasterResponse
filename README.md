@@ -59,7 +59,9 @@ train_classifier.py : script write a machine learning pipeline that:
 
 run.py : Main file to run Flask app that classifies messages based on the model and shows data visualizations.
 
-- Link of my git hub repository : 
+Classifier.pkl file can be seen in the master branch of this repository.
+
+- Link of my git hub repository : https://github.com/asaadaali/DisasterResponse.git
 
 ### Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
